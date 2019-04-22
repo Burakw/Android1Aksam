@@ -6,5 +6,5 @@
 # 22.04.2019 Pazartesi
 Ders İşleyişinin Örneklendirilmesi
 Github Kullanımı
-# 23.04.2019 Salı
+### 23.04.2019 Salı
 23 Nisan dolayısıyla ders işlenememektedir.
